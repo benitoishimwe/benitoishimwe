@@ -1,0 +1,37 @@
+name: Generate Lion Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # runs daily at midnight UTC
+  workflow_dispatch:         # manual trigger from Actions tab
+  push:
+    branches: [main]
+
+# ── FIX: grant write permission to push to output branch ──────────────
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Generate lion SVG animation
+        run: python generate_lion.py
+
+      - name: Push lion SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
