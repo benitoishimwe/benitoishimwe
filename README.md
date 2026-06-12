@@ -1,28 +1,28 @@
 <!-- ════════════════════════════════════════════════════
-     BENITO ISHIMWE — GitHub Profile README
-     Short · Honest · Recruiter-friendly
+     BENITO ISHIMWE — GitHub Profile README (fixed)
      ════════════════════════════════════════════════════ -->
 
-<!-- TYPING HEADER -->
 <div align="center">
 
+<!-- TYPING SVG: fully URL-encoded, no bare & · or emojis in the URL -->
 <a href="https://benitoishimwe.github.io/my-portfolio-engine/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Benito+👋;Backend+%26+Cloud+Engineer;Node.js+·+TypeScript+·+Terraform;GCP+·+Azure+·+Spring+Boot;Open+to+remote+%26+freelance+🌍" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hey%2C%20I%27m%20Benito;Backend%20%26%20Cloud%20Engineer;Node.js%20%20TypeScript%20%20Terraform;GCP%20%20Azure%20%20Spring%20Boot;Open%20to%20remote%20%26%20freelance" alt="Benito Ishimwe" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=benitoishimwe&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="views"/>
+<!-- PROFILE VIEWS: simple counter, no GitHub API needed — never fails -->
+<img src="https://komarev.com/ghpvc/?username=benitoishimwe&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="profile views"/>
 &nbsp;
+<!-- FOLLOWERS: static badge linking to followers page — avoids token pool error -->
 <a href="https://github.com/benitoishimwe?tab=followers">
-  <img src="https://img.shields.io/github/followers/benitoishimwe?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20me-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="follow"/>
 </a>
 
 </div>
 
 ---
 
-<!-- WHO I AM -->
 ## 👋 Hey, I'm Benito
 
 I build backend systems and cloud infrastructure that work when it matters.
@@ -46,7 +46,6 @@ const benito = {
 
 ---
 
-<!-- CONNECT -->
 ## 🔗 Find me here
 
 <div align="center">
@@ -59,7 +58,6 @@ const benito = {
 
 ---
 
-<!-- FEATURED PROJECT — LEAD WITH YOUR STRONGEST CARD -->
 ## 🏆 Featured Work
 
 <div align="center">
@@ -84,11 +82,10 @@ const benito = {
 
 </div>
 
-> 💡 **[kramp-technical-assignment](https://github.com/benitoishimwe/kramp-technical-assignment)** — Spring Boot + gRPC aggregation service deployed on GCP Cloud Run via GitHub Actions with Terraform and Workload Identity Federation. Realistic mock services with probabilistic failures and latency jitter.
+> 💡 **[kramp-technical-assignment](https://github.com/benitoishimwe/kramp-technical-assignment)** — Spring Boot + gRPC aggregation service deployed on GCP Cloud Run via GitHub Actions + Terraform with Workload Identity Federation. Realistic mock services with probabilistic failures and latency jitter.
 
 ---
 
-<!-- TECH STACK — FOCUSED, NOT EXHAUSTIVE -->
 ## 🛠️ What I work with
 
 <div align="center">
@@ -109,7 +106,6 @@ const benito = {
 
 ---
 
-<!-- STATS — SMALLER, NOT THE CENTREPIECE -->
 ## 📊 Stats
 
 <div align="center">
@@ -128,17 +124,15 @@ const benito = {
 
 ---
 
-<!-- CURRENTLY BUILDING — REAL ONLY -->
 ## ⚡ What I'm building right now
 
 | What | Stack | Where |
 |---|---|---|
-| Product Information Aggregator | Spring Boot · gRPC · GCP Cloud Run · Terraform | [→ repo](https://github.com/benitoishimwe/kramp-technical-assignment) |
-| Personal portfolio v2 | Next.js · TypeScript · Tailwind | [→ live](https://benitoishimwe.github.io/my-portfolio-engine/) |
+| Product Information Aggregator | Spring Boot · gRPC · GCP Cloud Run · Terraform | [repo](https://github.com/benitoishimwe/kramp-technical-assignment) |
+| Personal portfolio v2 | Next.js · TypeScript · Tailwind | [live](https://benitoishimwe.github.io/my-portfolio-engine/) |
 
 ---
 
-<!-- LION ANIMATION -->
 ## 🦁 Contribution Lion
 
 <div align="center">
@@ -146,7 +140,7 @@ const benito = {
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/benitoishimwe/benitoishimwe/output/github-contribution-grid-lion-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benitoishimwe/benitoishimwe/output/github-contribution-grid-lion.svg">
-  <img alt="lion walking across contribution grid" src="https://raw.githubusercontent.com/benitoishimwe/benitoishimwe/output/github-contribution-grid-lion.svg">
+  <img alt="lion contribution animation" src="https://raw.githubusercontent.com/benitoishimwe/benitoishimwe/output/github-contribution-grid-lion.svg">
 </picture>
 
 </div>
@@ -155,6 +149,6 @@ const benito = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=90&section=footer&text=Let's+build+something+real&fontSize=16&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=90&section=footer&text=Let%27s%20build%20something%20real&fontSize=16&fontColor=ffffff&animation=fadeIn" alt="footer"/>
 
 </div>
