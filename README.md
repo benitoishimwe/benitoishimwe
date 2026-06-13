@@ -110,9 +110,9 @@ const benito = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=benitoishimwe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=e2e8f0&hide=stars"/>
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=benitoishimwe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=e2e8f0&hide=stars"/> -->
 &nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benitoishimwe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0"/>
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benitoishimwe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0"/> -->
 
 </div>
 
